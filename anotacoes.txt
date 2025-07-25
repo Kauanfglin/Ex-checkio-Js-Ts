@@ -1,0 +1,23 @@
+array.filter ele filtra o array
+flat() transforma em array
+sort()//ordena
+ex numeros.sort((a,b) => a-b)
+let ordenados = array.filter(n => n !== 0)
+array.map cria um novo array
+indexof encontra a posicao dentro de uma string
+let p = "teste".indexOf("z");
+console.log(p);  // 1
+slice extrai parte de uma string
+startWiths = comeca com a palavra
+endswith = termina com
+new set = criar uma coleção de valores únicos
+set has = verifica se um valor existe dentro de um Set. Ele retorna true ou false.
+set delete = deleta o valor dentro
+
+let alunos[]
+
+let nomes = prompt("digite o nome")
+let notas = parseFloat(prompt(`Digite a nota de ${nome}:`))
+
+alunos.push({nome : nomes,notas:notas})//preeenchendo meu vetor com os dados q o usuario inseriu
+
