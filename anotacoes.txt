@@ -21,3 +21,5 @@ let notas = parseFloat(prompt(`Digite a nota de ${nome}:`))
 
 alunos.push({nome : nomes,notas:notas})//preeenchendo meu vetor com os dados q o usuario inseriu
 
+map usa para algo mais especifico
+find encontrar ou verificar algo
